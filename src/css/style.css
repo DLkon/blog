@@ -4,6 +4,10 @@
   box-sizing: 0;
 }
 
+.color-blue {
+  color: #2DC7ED;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: white;
   font-family: "Poppins", sans-serif;
@@ -661,11 +665,19 @@ body {
 header {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 8px 24px;
 }
 
 a {
   text-decoration: none;
   color: #EDEFF0;
+}
+
+h5 {
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #4DDCFF;
 }
 
 .flex {
@@ -712,4 +724,15 @@ a {
   border-radius: 4px;
   padding: 8px;
   color: white;
+}
+
+.img-profile {
+  width: 56px;
+  height: 56px;
+  background-color: #15171A;
+  border-radius: 50%;
+}
+
+.container-posts {
+  display: flex;
 }/*# sourceMappingURL=style.css.map */

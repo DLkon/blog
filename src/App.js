@@ -5,7 +5,6 @@ function App() {
     <> 
       <Header></Header>
       <Article></Article>
-      <h1>Blog</h1>
     </>
   );
 }

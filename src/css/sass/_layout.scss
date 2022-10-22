@@ -1,12 +1,20 @@
 header {
     max-width: 1200px;
     margin: 0 auto;
+    padding: 8px 24px;
 
 }
 
 a {
     text-decoration: none;
     color: $white-dark;
+}
+
+h5 {
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: $blue-light;
 }
 
 .flex {
@@ -54,3 +62,16 @@ a {
     padding: 8px;
     color: white;
 }
+
+.img-profile {
+    width: 56px;
+    height: 56px;
+    background-color: $black-light;
+    border-radius: 50%;
+
+}
+
+.container-posts {
+    display: flex;
+}
+

@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "category": "movies",
+      "title": "is netflix killing cinema?",
+      "content": "Some claim the streaming platform represents cinema’s slow death march, while others argue the backlash is simply cultural elitism from rigid cinephiles.",
+      "author": "Daniel Lopes",
+      "date": "Oct 22, 2022"
+    },
+    {
+      "id": "2",
+      "category": "Anime",
+      "title": "New anime ChainsawMan breakdown",
+      "content": "A new anime called chainsaw man based on manga by author Fukimoto, is currently beeing launched on Crunchyroll every tuesday",
+      "author": "Daniel Lopes",
+      "date": "Oct 22, 2022"
+    },
+    {
+      "id": "3",
+      "category": "Manga",
+      "title": "Tokyo Revengers new adaption",
+      "content": "The Tokyo revengers manga will get a new adpatation since the failure of the Studio Toyo in last season, rumors saying that the job will be passed to Mappa Studios",
+      "author": "Daniel Lopes",
+      "date": "Oct 22, 2022"
+    },
+    {
+      "id": "4",
+      "category": "Fantasy",
+      "title": "House of the Dragon last ep",
+      "content": "Last house of the dragon episode will aire this sunday",
+      "author": "Daniel Lopes",
+      "date": "Oct 22, 2022"
+    }
+  ]
+}
